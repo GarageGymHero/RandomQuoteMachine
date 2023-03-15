@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/randomQuoteMachine/static/css/main.bc8d8a64.css",
+    "main.js": "/randomQuoteMachine/static/js/main.0faff98b.js",
+    "static/js/787.e4ae0a49.chunk.js": "/randomQuoteMachine/static/js/787.e4ae0a49.chunk.js",
+    "static/media/mikasa.png": "/randomQuoteMachine/static/media/mikasa.de50fc4d623d80797198.png",
+    "static/media/eren.png": "/randomQuoteMachine/static/media/eren.5ea581eb3e70fceaf178.png",
+    "static/media/kenny.png": "/randomQuoteMachine/static/media/kenny.802fe332601f2dcab35f.png",
+    "static/media/levi.png": "/randomQuoteMachine/static/media/levi.afed7203656e72b5dd1a.png",
+    "static/media/miche.png": "/randomQuoteMachine/static/media/miche.ad4ad148ebc44b719b5c.png",
+    "static/media/hange.png": "/randomQuoteMachine/static/media/hange.7b70a73455cdc593f014.png",
+    "static/media/erwin.png": "/randomQuoteMachine/static/media/erwin.5437eae707392bf57246.png",
+    "static/media/colossal-titan.jpeg": "/randomQuoteMachine/static/media/colossal-titan.db468a3db8bda518d747.jpeg",
+    "static/media/ymir.png": "/randomQuoteMachine/static/media/ymir.a0f763a4a156c1365b4e.png",
+    "static/media/armin.png": "/randomQuoteMachine/static/media/armin.6a25b2f64d43edadbc03.png",
+    "static/media/AnimeQuotes.csv": "/randomQuoteMachine/static/media/AnimeQuotes.52d23f81ae09b1dafa1d.csv",
+    "index.html": "/randomQuoteMachine/index.html",
+    "main.bc8d8a64.css.map": "/randomQuoteMachine/static/css/main.bc8d8a64.css.map",
+    "main.0faff98b.js.map": "/randomQuoteMachine/static/js/main.0faff98b.js.map",
+    "787.e4ae0a49.chunk.js.map": "/randomQuoteMachine/static/js/787.e4ae0a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8d8a64.css",
+    "static/js/main.0faff98b.js"
+  ]
+}
